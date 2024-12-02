@@ -1,0 +1,33 @@
+.sb-main-div {
+  width: 270px;
+  height: 890px;
+  padding: 25px 0px 25px 5px;
+  padding-left: 15px;
+  background-color: #0d1424;
+}
+
+.sb-name-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 203px;
+  height: 34px;
+  margin: 15px 0px 15px 0px;
+  color: #9ea0b3;
+}
+
+.sb-name-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 203px;
+  height: 38px;
+  color: #9ea0b3;
+  padding-right: 80px;
+  margin-top: 10px;
+}
+
+.arrow-logo {
+  font-size: 30px;
+  margin-top: 6px;
+}

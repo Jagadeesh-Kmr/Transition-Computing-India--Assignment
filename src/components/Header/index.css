@@ -1,0 +1,94 @@
+.header-main-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #4c62921a;
+  width: 1620px;
+  height: 64px;
+  padding: 0px 10px 0px 10px;
+  margin: 0px;
+}
+
+.chat-p {
+  font-family: 'Roboto';
+  font-size: 17.5px;
+  font-weight: 500;
+  line-height: 26.25px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #8a8ea6;
+}
+
+.header-inside-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 221px;
+  height: 40px;
+}
+
+.header-sub-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.proc-div {
+  background-color: #fccc55;
+  text-align: center;
+  width: 166px px;
+  height: 27px px;
+  padding: 5px 15px 5px 15px;
+  border-radius: 5px;
+  margin-left: 10px;
+  color: #44486d;
+}
+
+.header-admin-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 443px;
+  height: 40px;
+}
+
+.admin-div {
+  text-align: center;
+  width: 72px;
+  height: 27px;
+  padding: 5px 15px 5px 15px;
+  border-radius: 5px;
+  background-color: #e553bc;
+  margin-left: 10px;
+  color: #44486d;
+}
+
+.palak-p {
+  width: 85px;
+  height: 21px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #44486d;
+  margin: 0px 5px 0px 15px;
+}
+.profile-img {
+  margin: 0px 20px 0px 20px;
+}
+
+.logout-p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 500;
+  color: #44486d;
+  margin-left: 10px;
+  margin-right: 20px;
+}
